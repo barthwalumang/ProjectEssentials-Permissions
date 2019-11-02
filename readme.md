@@ -50,7 +50,7 @@ dependencies {
 ## 🎮 Installation instructions (for playing):
 > ##### Just move Project Essentials Permissions-1.14.4-1.X.X.X.jar to mods directory:
 
-> ##### Important note: don't forget install mod dependencies!
+> ##### Important note: don't forget to install mod dependencies ❗
   - core: https://github.com/ProjectEssentials/ProjectEssentials-Core/releases
 
 ```
@@ -79,7 +79,7 @@ Additional information:
 
 > ## Made with 💕 by [MairwunNx](https://mairwunnx.github.io/)
 
-## 🥰 Powered by JetBrains product licenses, Intellij Ultimate, Kotlin language and the Forge modding API!
+## 🥰 Powered by JetBrains product licenses, Intellij Ultimate, Kotlin language and the Forge modding API !
 
 <p align="center">
     <a href="https://www.jetbrains.com">
@@ -98,4 +98,3 @@ Additional information:
         <img style="padding-left: 20px; padding-top: 30px" src="logos/forge.svg" height="160">
     </a>
 </p>
-
